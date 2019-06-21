@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to keep Selection when expanding/collapsing detail grids
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4685/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to persist Selection when expanding/collapsing detail grids.</p><p>This functionality is implemented by handling the following ASPxGridView events:<br />
