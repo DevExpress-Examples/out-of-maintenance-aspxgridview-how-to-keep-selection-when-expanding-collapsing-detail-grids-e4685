@@ -1,5 +1,5 @@
 ﻿using System;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using System.Collections.Generic;
 
 namespace SaveRestoreSelection {

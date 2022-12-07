@@ -31,7 +31,7 @@ Namespace SaveRestoreSelection
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected masterGrid As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected masterGrid As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' masterDataSource control.
